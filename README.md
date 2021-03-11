@@ -19,4 +19,42 @@ Intel SSD Pro 7600p Series
 Working: Battery status, Display, Sound, WiFi, bluetooth, Trackpad, power management, cam…
 Not working yet : battery status update when charging, DisplayPort via USB-C, bluetooth random bug after sleep, itlwm limitations (hotspot, wireless sidecar…)
 
+Bios settings
 
+Config
+>> Security
+>> Security Chip
+Security Chip DISABLED
+
+
+>> Fingerprint
+Predesktop Authentication DISABLED
+
+
+>> I/O Port Access
+Wireless WAN DISABLED *ENABLED if you have a 2nd drive attached
+
+
+
+Fingerprint Reader DISABLED
+
+
+>> Secure Boot Configuration
+Secure Boot DISABLED
+
+
+
+Press Clear All Secure Boot Keys
+
+
+>> Intel SGX
+Intel SGX Control DISABLED
+
+>> Startup
+UEFI/Legacy Boot UEFI Only
+
+
+
+CSM Support No (per OpenCore Documentation)
+
+!!! Thunderbolt BIOS Assist enabled  (0,8W idle)

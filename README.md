@@ -17,6 +17,6 @@ Intel® SSD Pro 7600p/760p/E 6100p Series
 Intel SSD Pro 7600p Series
 
 Working: Battery status, Display, Sound, WiFi, bluetooth, Trackpad, power management, cam…
-Not working yet : battery status upgrade when charging, DisplayPort via USB-C, bluetooth random bug after sleep, itlwm limitations (hotspot, wireless sidecar…)
+Not working yet : battery status update when charging, DisplayPort via USB-C, bluetooth random bug after sleep, itlwm limitations (hotspot, wireless sidecar…)
 
 
